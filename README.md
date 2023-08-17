@@ -45,6 +45,6 @@ If you're new to this repository, consider following these steps to get started:
 
 ## Contact Me
 
-If you have any questions, suggestions, or just want to connect, you can reach me via email at khuramiqbalofficial@gmail.com or find me on [LinkedIn](www.linkedin.com/in/khuram-iqbal).
+If you have any questions, suggestions, or just want to connect, you can reach me via email at khuramiqbalofficial@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/khuram-iqbal/).
 
 Thank you for visiting my repository! I hope you find something interesting and valuable here. Happy coding!
