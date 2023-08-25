@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/khuramgill" alt="Profile Picture" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/khuramgill" alt="https://avatars.githubusercontent.com/u/120157447?v=4" width="150" height="150">
   <h1>Welcome to My GitHub Repository</h1>
   <p>Showcasing a collection of projects highlighting my skills as a computer science student and .NET developer</p>
   <a href="https://www.linkedin.com/in/khuram-iqbal/">
