@@ -50,5 +50,5 @@ Feel free to learn from the code, experiment, and even contribute if you'd like.
 
 If you have any questions, suggestions, or just want to connect, you can reach me via email at khuramiqbalofficial@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/khuram-iqbal/).
 
-Thank you for visiting my repository! I hope you find something interesting and valuable here. Happy coding!
+Thank you for visiting my GitHub Account! I hope you find something interesting and valuable here. Happy coding!
 
