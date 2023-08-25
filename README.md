@@ -1,15 +1,16 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-username" alt="Profile Picture" width="150" height="150">
   <h1>Welcome to My GitHub Repository</h1>
-  <p>Showcasing a collection of projects highlighting my skills as a computer science student and .NET developer</p>
+  <p>🚀 Showcasing a collection of projects highlighting my skills as a computer science student and .NET developer 🖥️</p>
   <a href="https://www.linkedin.com/in/khuram-iqbal/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:khuramiqbalofficial@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-khuramiqbalofficial%40gmail.com-blue?style=flat-square">
+    <img alt="Email" src="https://img.shields.io/badge/Email-khuramiqbalofficial%40gmail.com-blue?style=for-the-badge">
   </a>
 </div>
 
-## 🚀 Description
+## 🌟 Description
 
 Welcome to my GitHub repository! I'm a computer science student and passionate .NET developer. This collection showcases projects and code samples that demonstrate my coding skills and dedication to software development.
 
@@ -22,7 +23,7 @@ Explore a variety of projects that reflect my expertise and experience:
 - **Python Projects**: Scripts, automation, and data manipulation examples using Python.
 - **.NET Development**: In-depth .NET applications, libraries, and components developed throughout my journey.
 
-## 🌟 Recent Project: C# Windows Service for Document Handling
+## 🚀 Recent Project: C# Windows Service for Document Handling
 
 During my first-year summer, I had the privilege to collaborate with a USA-based client on an impactful project. I designed and developed a sophisticated C# Windows service tailored for efficient document handling. This project enhanced my confidence and provided invaluable insights into real-world industry practices.
 
@@ -51,4 +52,4 @@ Feel free to connect, share ideas, or just chat:
 - 📧 khuramiqbalofficial@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/khuram-iqbal/)
 
-Thank you for exploring my GitHub repository. Let's embark on a coding journey together!
+Thank you for exploring my GitHub repository. Let's embark on a coding journey together! 🚀
