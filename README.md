@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/120157447?v=4" alt="Profile Picture" width="150" height="150">
+![1682276362830](https://github.com/khuramgill/khuramgill/assets/120157447/9bb2ed76-e98b-4497-8483-1211534c6455)<div align="center">
+  <img src="![1682276362830](https://github.com/khuramgill/khuramgill/assets/120157447/233388b3-8375-4b78-99f3-06752001572d)
+" alt="Profile Picture" width="150" height="150">
   <h1>Welcome to My GitHub Repository</h1>
   <p>Showcasing a collection of projects highlighting my skills as a computer science student and .NET developer</p>
   <a href="https://www.linkedin.com/in/khuram-iqbal/">
