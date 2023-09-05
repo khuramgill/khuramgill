@@ -34,7 +34,7 @@ During my first-year summer, I had the privilege to collaborate with a USA-based
 - **Integration with Data Sources**: Seamlessly retrieve and store documents from multiple locations.
 - **Client-Centric Approach**: Close collaboration with the client for tailored solutions.
 
-📖 [Learn More](C%23%20Projects/DocumentHandlingService)
+📖 [Learn More](https://github.com/khuramgill/DocumentsHandling/blob/main/README.md)
 
 ## 🚀 Getting Started
 
