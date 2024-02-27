@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **khuramiqbalofficial@gmail.com**
 
-- ⚡ Fun fact **I passionate about Desktop and Web Application **
+- ⚡ Fun fact **I'm passionate about Desktop and Web Application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
