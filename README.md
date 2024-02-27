@@ -1,56 +1,28 @@
-![1682276362830](https://github.com/khuramgill/khuramgill/assets/120157447/9bb2ed76-e98b-4497-8483-1211534c6455)<div align="center">
-  <img src="![1682276362830](https://github.com/khuramgill/khuramgill/assets/120157447/233388b3-8375-4b78-99f3-06752001572d)
-" alt="Profile Picture" width="150" height="150">
-  <h1>Welcome to My GitHub Repository</h1>
-  <p>Showcasing a collection of projects highlighting my skills as a computer science student and .NET developer</p>
-  <a href="https://www.linkedin.com/in/khuram-iqbal/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:khuramiqbalofficial@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-khuramiqbalofficial%40gmail.com-blue?style=flat-square">
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Khuram Iqbal</h1>
+<h3 align="center">A passionate developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🚀 Description
+- 🌱 I’m currently learning **Data Base Management System , Operating System**
 
-Welcome to my GitHub repository! I'm a computer science student and passionate .NET developer. This collection showcases projects and code samples that demonstrate my coding skills and dedication to software development.
+- 💬 Ask me about **C # (.net framework),Python, C++**
 
-## 🗂️ Repository Contents
+- 📫 How to reach me **khuramiqbalofficial@gmail.com**
 
-Explore a variety of projects that reflect my expertise and experience:
+- ⚡ Fun fact **I passionate about Desktop and Web Application **
 
-- **C++ Projects**: Implementations of algorithms, data structures, and problem-solving techniques.
-- **C# Projects**: Applications, user interfaces, and backend logic crafted using C#. Look out for my latest project!
-- **Python Projects**: Scripts, automation, and data manipulation examples using Python.
-- **.NET Development**: In-depth .NET applications, libraries, and components developed throughout my journey.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/khuram-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadhassan365" height="30" width="40" /></a>
+<a href="https://leetcode.com/khuramgill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Khuram-Gill" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/khuramiqbaloffi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Khuram-Gill" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khuramgil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Khuram-Gill" height="30" width="40" /></a>
+</p>
 
-## 🌟 Recent Project: C# Windows Service for Document Handling
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-During my first-year summer, I had the privilege to collaborate with a USA-based client on an impactful project. I designed and developed a sophisticated C# Windows service tailored for efficient document handling. This project enhanced my confidence and provided invaluable insights into real-world industry practices.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khuramgill&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hamadhassan" /></p>
 
-**Key Features**:
-- **Automated Document Processing**: Streamlined document handling with accuracy.
-- **Background Operation**: Uninterrupted document management in the background.
-- **Integration with Data Sources**: Seamlessly retrieve and store documents from multiple locations.
-- **Client-Centric Approach**: Close collaboration with the client for tailored solutions.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuramgill&show_icons=true&locale=en&theme=tokyonight" alt="hamadhassan" /></p>
 
-📖 [Learn More](https://github.com/khuramgill/DocumentsHandling/blob/main/README.md)
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**
-   
-2. **Explore**: Browse through folders to discover projects that interest you.
-
-3. **Project Setup**: Each project folder contains setup instructions.
-
-4. **Contribute**: Contributions and suggestions are welcome. Let's learn and improve together!
-
-## 📬 Contact Me
-
-Feel free to connect, share ideas, or just chat:
-
-- 📧 khuramiqbalofficial@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/khuram-iqbal/)
-
-Thank you for exploring my GitHub repository. Let's embark on a coding journey together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khuramgill&&theme=tokyonight" alt="hamadhassan" /></p>
