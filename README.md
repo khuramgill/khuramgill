@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuramgill" alt="khuramgill" /></a> </p>
 
-- 🔭 I’m currently working on **DBMS Mid Sem Project**
+- 🔭 I’m currently working on **DBMS Final Project**
 
 - 🌱 I’m currently learning **Data Base Management System , Operating System**
 
