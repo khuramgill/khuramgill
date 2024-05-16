@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khuram Iqbal</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khuramgill&label=Profile%20views&color=0e75b6&style=flat" alt="khuramgill" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khuramgill" alt="khuramgill" /></a> </p>
 
 - 🔭 I’m currently working on **DBMS Final Project**
 
-- 🌱 I’m currently learning **Data Base Management System , Operating System**
+- 🌱 I’m currently learning **ML/DL**
 
-- 💬 Ask me about **C++ ,C# (.Net framework), Python , MySQL , SQL**
+- 💬 Ask me about **C++ ,C# (.Net framework), Python (Numpy/Matplotlib/Pandas) , MySQL , SQL , PHP**
 
 - 📫 How to reach me **khuramiqbalofficial@gmail.com**
 
