@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DBMS Final Project**
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **Gen-AI , ML/DL**
 
 - 💬 Ask me about **C++ ,C# (.Net framework), Python (Numpy/Matplotlib/Pandas) , MySQL , SQL , PHP**
 
