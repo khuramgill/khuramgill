@@ -2,7 +2,7 @@
 <h3 align="center">Passionate developer</h3>
 
 
-- 🔭 I’m currently working on **Gen-Ai Project**
+- 🔭 I’m currently working on **Scrap Out**
 
 - 🌱 I’m currently learning **Gen-AI , ML/DL**
 
