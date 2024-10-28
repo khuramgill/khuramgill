@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khuram Iqbal</h1>
-<h3 align="center">Passionate developer</h3>
+<h3 align="center">Generative AI & LLM's Specialist</h3>
 
 
 - 🔭 I’m currently working on **Scrap Out**
