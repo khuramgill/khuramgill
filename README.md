@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Gen-AI , ML/DL**
 
-- 💬 Ask me about **C++ ,C# (.Net framework), Python (Numpy/Matplotlib/Pandas) , MySQL , SQL , PHP**
+- 💬 Ask me about **ChatBot's, Gen Ai, Data Science C++ ,C# (.Net framework), Python (Numpy/Matplotlib/Pandas) , MySQL , SQL , PHP**
 
 - 📫 How to reach me **khuramiqbalofficial@gmail.com**
 
